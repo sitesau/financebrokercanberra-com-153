@@ -1,0 +1,22 @@
+{
+  "wheel_id": 678,
+  "structure": "umbrella",
+  "slug": "financebrokercanberra-com-153",
+  "project": "home-loan-brokers-canberra-c08e8ee240563d3c86fa6db7f6c4453d0bcf",
+  "parent_t1_ref": "financebrokercanberra.com-009",
+  "node_role": "buffer",
+  "money_target": "financebrokercanberra.com.au",
+  "primary_kw": "home loan brokers canberra",
+  "intended_url": "https://sites-e470-2.web.app/home-loan-brokers-canberra-c08e8ee240563d3c86fa6db7f6c4453d0bcf/",
+  "tier": "T2",
+  "writeback_nonce": "5bad0e8caf63ff3f",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/financebrokercanberra.com-009/home-loan-brokers-canberra.html",
+      "anchor": "https://s3.ap-southeast-2.amazonaws.com/financebrokercanberra.com-009/home-loan-brokers-canberra.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
